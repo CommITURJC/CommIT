@@ -70,6 +70,13 @@ footer {
     width: 100%;
 }
 
+.members-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 2rem;
+}
+
 .member {
     flex: 1 1 calc(33.333% - 2rem);
     box-sizing: border-box;
