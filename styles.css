@@ -69,4 +69,24 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.member {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.member img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.member h3 {
+    margin-top: 0.5rem;
+}
+
+.member p {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+}
  
