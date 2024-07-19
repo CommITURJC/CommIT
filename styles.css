@@ -1,3 +1,10 @@
+#logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px; /* Ajusta este valor según sea necesario */
+    height: auto;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
